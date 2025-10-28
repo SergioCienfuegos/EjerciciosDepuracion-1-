@@ -2,8 +2,7 @@
  * 
  */
 /**
- * @author vitit
- *
+ * 
  */
 module EjerciciosDepuracion {
 }
